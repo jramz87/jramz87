@@ -1,7 +1,10 @@
-# Jessica Ramirez | Human
+# Jessica Ramirez | A Curious Human
 
 ## 👋 About Me
-I'm interested in laser technology, materials science, computational quantum chemistry, data analysis and contract manufacturing. Currently studying CS at OSU.
+I'm interested in laser technology, materials science, computational quantum chemistry, data analysis and contract manufacturing of optical devices. 
+
+PhD in Physical Chemistry. Currently studying CS at OSU.
+
 I'm always looking for opportunities to learn and grow, so please reach out if you have ideas you'd like to work together on!
 
 ## 🚀 Featured Projects

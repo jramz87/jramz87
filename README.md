@@ -8,7 +8,7 @@ PhD in Physical Chemistry. Currently studying CS at OSU.
 I'm always looking for opportunities to learn and grow, so please reach out if you have ideas you'd like to work together on!
 
 ## 🚀 Featured Projects
-### [Personal Portfolio Website](https://jramz87.github.io/)
+### [Personal Portfolio Website](https://github.com/jramz87/jramz87.github.io)
 <img src="https://github.com/jramz87/jramz87.github.io/raw/main/screenshots/homepage.png" width="400" alt="Portfolio Website Screenshot">
 
 A responsive portfolio website built with React that showcases my background, skills, and projects. Features sections for my research experience, publications, and contact information.

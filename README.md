@@ -22,6 +22,21 @@ A responsive portfolio website built with React that showcases my background, sk
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://pages.github.com/)
 
 
+### [Exercise Tracker](https://github.com/jramz87/C290_Portfolio_Project)
+<img src="https://github.com/jramz87/C290_Portfolio_Project/raw/main/screenshots/homepage.png" width="400" alt="Exercise Tracker Screenshot">
+
+A full-stack MERN application that allows users to track their exercise activities. Features include creating, reading, updating, and deleting exercise records with a responsive interface. Deployed on Render with a MongoDB Atlas backend.
+
+**Tech Stack:**
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com/)
+
+
+
 ...more coming soon!
 
 ## 🔗 Connect With Me

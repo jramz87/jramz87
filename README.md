@@ -27,7 +27,7 @@ A responsive portfolio website built with React that showcases my background, sk
 ### [Exercise Tracker](https://github.com/jramz87/C290_Portfolio_Project)
 <img src="https://github.com/jramz87/C290_Portfolio_Project/raw/main/utils/screenshots/homepage.png" width="400" alt="Exercise Tracker Screenshot">
 
-A full-stack MERN application that allows users to track their exercise activities. Features include creating, reading, updating, and deleting exercise records with a responsive interface. Deployed on Render with a MongoDB Atlas backend.
+A full-stack MERN application that allows users to track their exercise activities. Features include creating, reading, updating, and deleting exercise records with a responsive interface. Deployed on Render with a MongoDB Atlas backend. Developed as a portfolio project for CS290 (Web Development) at Oregon State University, Winter 2025.
 
 **Tech Stack:**
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)

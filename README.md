@@ -24,6 +24,19 @@ A responsive portfolio website built with React that showcases my background, sk
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://pages.github.com/)
 
 
+
+### [HashMap Implementation](https://github.com/jramz87/CS261_Portfolio_Project)
+
+A comprehensive implementation of HashMap data structures using two different collision resolution strategies: Separate Chaining and Open Addressing with Quadratic Probing. Features include dynamic resizing, efficient key-value operations, and comprehensive unit testing. Developed as a portfolio project for CS261 (Data Structures) at Oregon State University, Winter 2025.
+
+**Tech Stack:**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=flat-square&logo=buffer&logoColor=white)](https://en.wikipedia.org/wiki/Data_structure)
+[![Algorithms](https://img.shields.io/badge/Algorithms-6495ED?style=flat-square&logo=thealgorithms&logoColor=white)](https://en.wikipedia.org/wiki/Algorithm)
+[![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B275F?style=flat-square&logo=pytest&logoColor=white)](https://docs.python.org/3/library/unittest.html)
+
+
+
 ### [Exercise Tracker](https://github.com/jramz87/C290_Portfolio_Project)
 <img src="https://github.com/jramz87/C290_Portfolio_Project/raw/main/utils/screenshots/homepage.png" width="400" alt="Exercise Tracker Screenshot">
 

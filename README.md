@@ -1,4 +1,4 @@
-# Jessica Ramirez     |     A Curious Human
+# Jessica Ramirez
 
 ## About Me
 I'm interested in laser technology, materials science, computational quantum chemistry, data analysis and contract manufacturing of optical devices. 

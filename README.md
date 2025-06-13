@@ -72,7 +72,7 @@ A comprehensive implementation of HashMap data structures using two different co
 
 
 ### [Bike Coop Database and UI]([https://github.com/jramz87/C290_Portfolio_Project](https://github.com/jramz87/CS-340_Project))
-<img src="https://github.com/jramz87/CS-340_Project/Screenshot.png" width="400" alt="UI Screenshot">
+<img src="https://github.com/jramz87/CS-340_Project/blob/main/Screenshot.png" width="400" alt="UI Screenshot">
 
 A full-stack SERN application that allows interact with a SQL database designed for a Bike Co-op. Deployed on a local RaspberryPi server running a MySQL MariaDB and using Ngrok tunnels to facilitate public access. Developed as a portfolio project for CS340 (Introduction to Databases) at Oregon State University, Spring 2025, in collaboration with Grant Wu.
 

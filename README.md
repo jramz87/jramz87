@@ -26,6 +26,8 @@ A responsive portfolio website built with React that showcases my background, sk
 ### [DMABN Molecular Dynamics Viewer](https://github.com/jramz87/MD-Viewer)
 <img src="https://github.com/jramz87/MD-Viewer/raw/main/screenshots/viewer-interface.png" width="400" alt="Molecular Dynamics Viewer Screenshot">
 
+Deployed [here](https://md-viewer-production.up.railway.app/) on Railway.
+
 A web application for visualizing and analyzing molecular dynamics simulations (from TeraChem) with real-time 3D rendering and interactive data visualization. Features live absorption spectrum plots, energy evolution charts, and frame-by-frame molecular structure analysis. Deployed on Railway with automated data management.
 
 **In Progress Features:**

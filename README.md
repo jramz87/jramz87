@@ -78,6 +78,8 @@ A comprehensive implementation of HashMap data structures using two different co
 
 A full-stack SERN application that allows interact with a SQL database designed for a Bike Co-op. Deployed on a local RaspberryPi server running a MySQL MariaDB and using Ngrok tunnels to facilitate public access. Developed as a portfolio project for CS340 (Introduction to Databases) at Oregon State University, Spring 2025, in collaboration with Grant Wu.
 
+**Link to project:** [run on local Raspberry Pi servers](https://c91b-162-196-65-9.ngrok-free.app/)
+
 **Tech Stack:**
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
